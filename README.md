@@ -1,2 +1,2 @@
 # TinyBlog
-A tiny blog build from scratch for study and fun
+A tiny blog build from scratch just for study and fun
